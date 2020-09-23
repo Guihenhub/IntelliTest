@@ -1,5 +1,10 @@
+import java.util.ArrayList;
+import java.util.Vector;
+
 public class Sistema {
     public static void main(String[] args) {
-        //Aaa
+        while (true) {
+            System.out.println("Hello world");
+        }
     }
 }
